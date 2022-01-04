@@ -18,7 +18,7 @@ Esse é um projeto sobre receitas e despesas, onde aborda o básico de HTML, CSS
 
 ## 💻 Interface
 <p width="100%" align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="50%">
+  <img alt="dev.finances" src=".github/devfinances.png" width="80%">
 </p>
 
 ---
