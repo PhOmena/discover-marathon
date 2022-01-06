@@ -23,9 +23,9 @@ Esse é um projeto sobre receitas e despesas, onde aborda o básico de HTML, CSS
 
 ---
   
-<!-- #### 🔗 Visualização completa:
-https://twitter-chi.vercel.app/
- -->
+#### 🔗 Visualização completa:
+https://devfinances-coral.vercel.app/
+
  
  <p align="left">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
